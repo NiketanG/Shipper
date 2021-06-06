@@ -23,7 +23,7 @@ The [Server](https://github.com/NiketanG/shipper-server) acts as an AIS Station 
 
 When other ships are in close proximity, the dashboard switches to Radar for better accuracy. 
 
-As the ships move far from coast, the connection to AIS Station is lost, the Dashboard automatically switches to Satellite Imagery for Ship Identification using [Shipper-ML](https://github.com/NiketanG/shipper-ml).
+As the ships move far from coast, the connection to AIS Station is lost, the Dashboard automatically switches to Satellite Imagery for Ship Identification using [Shipper-ML](https://github.com/NiketanG/shipper-ml). It takes the satellite imagery, then identifies and marks the ships in it, and returns the new image.
 
 Based on locations of other ships, appropriate warnings are displayed along with Navigational Guides in case of collisions. 
 
