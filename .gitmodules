@@ -1,0 +1,12 @@
+[submodule "shipper-server"]
+	path = shipper-server
+	url = https://github.com/NiketanG/shipper-server.git
+	branch = main
+[submodule "shipper-ml"]
+	path = shipper-ml
+	url = https://github.com/NiketanG/shipper-ml.git
+	branch = main
+[submodule "shipper-web"]
+	path = shipper-web
+	url = https://github.com/NiketanG/shipper-web.git
+	branch = main
