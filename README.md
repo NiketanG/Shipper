@@ -32,7 +32,7 @@ A report system for unidentified ships is also implemented using the same AIS Se
 The implementation, requires no internet connectivity once connected to the AIS on Deck, as it can be converted into a standalone app running on standalone server.  
 
 
-The [Pitch Presentation](Shipper_Team51_PS7.pdf) and [Demo for Shipper-ML](Shipper-ML_Demo.mp4) is included in the repo. 
+The [Pitch Presentation](Shipper_Team51_PS7.pdf) is included in the repo. 
 
 ---
 ### Local Development
