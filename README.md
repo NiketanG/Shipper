@@ -64,11 +64,23 @@ The Repo contains three modules - [`shipper-web`](https://github.com/NiketanG/sh
 ##### Instructions for installation of each module are given in respective directories  ([`shipper-web`](https://github.com/NiketanG/shipper-web), [`shipper-server`](https://github.com/NiketanG/shipper-server) & [`shipper-ml`](https://github.com/NiketanG/shipper-ml)). 
 
 
-- Install Dependencies and follow the installation procedures for all modules separately.
+##### Shipper-Server
+- Install Dependencies
+- Configure Environment Variables
+- Create Database Migrations
 - Start the Shipper-server.
-- Configure the Mapbox Tokens for Shipper-web. 
-- Start the Shipper-Web app.
+
+##### Shipper-Server
+- Install Dependencies
+- Configure the Mapbox Tokens and API_URL environment variables for Shipper-web. 
+- Start Shipper-Web.
 - Open [http://localhost:3000](http://localhost:3000) in your browser to view the dashboard. 
+
+##### Shipper-ML
+- Install dependencies for Shipper-ML.
+- Download the Pre-trained model.
+- Start the server and open [http://localhost:3000](http://localhost:3000) in your browser.
+
 
 
 ### Tech Stack
@@ -78,13 +90,22 @@ The Repo contains three modules - [`shipper-web`](https://github.com/NiketanG/sh
 [Nodejs](https://nodejs.org/en/)
 [Expressjs](http://expressjs.com/)
 [Socket.io](http://socket.io/)
-[Django](https://www.djangoproject.com/)
 [Postgresql](https://www.postgresql.org/)
+
 ##### Frontend:
 
 [Reactjs](https://reactjs.org/)
 [Tailwindcss](https://tailwindcss.com/)
 [Mapbox](https://www.mapbox.com/)
+
+
+##### Object Detection API
+[Flask](https://flask.palletsprojects.com/en/2.0.x/)
+[OpenCV](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
+[Numpy](https://numpy.org/)
+[Pillow](https://pillow.readthedocs.io/)
+
+
 
 ---
 
