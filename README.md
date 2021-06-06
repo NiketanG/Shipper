@@ -79,7 +79,7 @@ The Repo contains three modules - [`shipper-web`](https://github.com/NiketanG/sh
 ##### Shipper-ML
 - Install dependencies for Shipper-ML.
 - Download the Pre-trained model.
-- Start the server and open [http://localhost:3000](http://localhost:3000) in your browser.
+- Start the server and open [http://localhost:5000](http://localhost:5000) in your browser.
 
 
 
