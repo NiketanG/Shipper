@@ -5,7 +5,9 @@ Developed for **ASEAN-India Hackathon** 2021 - PS7 by Team 51 and received **Enc
 
 ### Demo
 
-[Shipper-Web](https://shipper-web.netlify.app)
+[Shipper-Web](https://shipper-web.netlify.app) - Shipper Dashboard
+
+[Shipper-ML](http://nikketan.pythonanywhere.com/) - Object Detection API for Ship Detection using Satellite Imagery
 
 
 ### What is Shipper ?
